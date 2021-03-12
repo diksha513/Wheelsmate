@@ -1,3 +1,5 @@
+coded in wordpress..
+
 <!-- wp:gallery {"ids":[77],"linkTo":"none","align":"full"} -->
 <figure class="wp-block-gallery alignfull columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://dreamcars2021.files.wordpress.com/2021/01/listing_img4.jpg?w=900" alt="" data-id="77" data-link="https://dreamcars2021.wordpress.com/listing_img4/" class="wp-image-77"/><figcaption class="blocks-gallery-item__caption"><strong><em><span class="has-inline-color has-cyan-bluish-gray-color">FEATURED VEHICLES</span></em></strong> </figcaption></figure></li></ul></figure>
 <!-- /wp:gallery -->
